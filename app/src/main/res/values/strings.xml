@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Mini App</string>
+    <string name="music">Music Player</string>
+    <string name="home">Home</string>
+    <string name="artist">Artists</string>
+    <string name="album">Albums</string>
+    <string name="genre">Genres</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="artist_info">This activity should contain all artists that exists on the music player.</string>
+    <string name="album_info">This activity should contain all albums that exists on the music player.</string>
+    <string name="genre_info">This activity should contain all genres that exists on the music player.</string>
+    <string name="payment_method_info">Can use Android Pay API to sell the users tracks and music.</string>
+
+</resources>

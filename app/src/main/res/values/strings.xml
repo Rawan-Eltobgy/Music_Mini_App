@@ -9,6 +9,6 @@
     <string name="artist_info">This activity should contain all artists that exists on the music player.</string>
     <string name="album_info">This activity should contain all albums that exists on the music player.</string>
     <string name="genre_info">This activity should contain all genres that exists on the music player.</string>
-    <string name="payment_method_info">Can use Android Pay API to sell the users tracks and music.</string>
+    <string name="payment_method_info">Can use Android Pay API to sell the users tracks and music ,Before starting the Android Pay flow, we use  isReadyToPay() method to check whether the user has the Android Pay app installed and is ready to pay. If this method returns true, show the Android Pay button. If it returns false, display other checkout options along with text notifying the user to set up the Android Pay app.</string>
 
 </resources>
